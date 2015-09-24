@@ -1,0 +1,1 @@
+Lesson 2 teaches the basics of using Git to view logs, compare commits/branches, make commits and branches, merge branches, and handle conflicts.
