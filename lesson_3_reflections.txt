@@ -8,3 +8,6 @@ Requiring changes be manually made rather than having Git stay up-to-date avoids
   
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are clones on GitHub.  Clones are used to synchronize a remote repository locally. Branches are paths inside a repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It allows you to compare what was changed remotely and locally.
