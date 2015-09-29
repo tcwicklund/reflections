@@ -1,1 +1,1 @@
-This is a new file on the local repo.
+This is a new file on the local repo that was merged with a file on the remote repo.
